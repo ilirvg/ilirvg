@@ -15,7 +15,7 @@
 ### About Me
 
 I specialize in building scalable systems, real-time networking, and online infrastructure for both games and general applications. I have deep experience with Unity, cloud platforms, DevOps, and web3/blockchain technologies. I enjoy tackling complex technical challenges across distributed systems and backend architecture.  
-My work increasingly incorporates artificial intelligence and large language models, as I continue to expand my expertise in backend, AI-driven solutions, and decentralized applications such as web3 and blockchain.
+My work increasingly incorporates artificial intelligence and large language models, as I continue to expand my expertise in backend, AI-driven solutions, and decentralized applications.
 
 ---
 
