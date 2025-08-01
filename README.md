@@ -32,5 +32,4 @@ Backend Architecture, Multiplayer Networking, Systems Design, DevOps, LiveOps, A
 ### 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ilirvg-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ilirvg/)
-[![GitHub](https://img.shields.io/badge/GitHub-ilirvg-181717?style=flat-square&logo=github)](https://github.com/ilirvg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-24292e?style=flat-square&logo=githubpages)](https://ilirvg.github.io)
