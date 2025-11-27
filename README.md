@@ -1,6 +1,6 @@
 # Ilir Gruda
 
-## Online Systems Engineer • Unity Developer • Multiplayer & Backend
+## Software Engineer • Unity Developer • Multiplayer & Backend
 
 ---
 
