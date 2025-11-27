@@ -22,7 +22,7 @@ My work increasingly incorporates artificial intelligence and large language mod
 ### Skills & Tech Stack
 
 **Languages & Tools:**  
-C#, Unity, Node.js, Java, GO, SQL, HCL, AWS, Docker, Terraform, WebRTC, WebSocket, LangChain
+C#, Unity, Python, Node.js, Java, GO, SQL, HCL, AWS, Docker, Terraform, WebRTC, WebSocket, LangChain
 
 **Concepts:**  
 Backend Architecture, Multiplayer Networking, Systems Design, DevOps, LiveOps, AI, Cloud Infrastructure, Blockchain
